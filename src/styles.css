@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.menuItem {
+  font-size: 22px;
+}
+
+h3.on {
+  font-weight: bolder;
+  color: seagreen;
+}
